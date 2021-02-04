@@ -1,75 +1,105 @@
-<p align="center">
-  <img src="img/Logo.png" />
-</p>
+# Título del Proyecto
+
+_Acá va un párrafo que describa lo que es el proyecto_
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
 
 
+### Pre-requisitos 📋
 
-# Proyecto Web Videoclub
-Esto es un proyecto web de html / css / javascript. Las páginas web son responsive.
+_Que cosas necesitas para instalar el software y como instalarlas_
 
-## Tabla de contenidos
+```
+Da un ejemplo
+```
 
-* [Lenguajes Usados](#LenguajesUsados)
-* [Comenzando](#Comenzando)
-* [Pre-requisitos](#Pre-requisitos)
-* [Instalación](#Instalación)
-* [Construido](#Construido)
-* [Autor](#Autor)
-* [Copyright](#Copyright)
-<a name="LenguajesUsados">
-  
-  <h2> Lenguajes usados </h2>
+### Instalación 🔧
 
-* HTML
-* CSS 
-* JS
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-</a>
+_Dí cómo será ese paso_
 
-<a name="Comenzando">
-<h2>  Comenzando 🚀 </h2>
-Sólo necesitas abrir el archivo index.html para verlo.
-</a>
+```
+Da un ejemplo
+```
 
-<a name="Pre-requisitos">
-  
-<h2> Pre-requisitos 📋 </h2>
+_Y repite_
 
-</a>
+```
+hasta finalizar
+```
 
-¡Solo necesitas un navegador web! 
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-<a name="Instalación">
-  
-<h2>Instalación 🔧 </h2>
+## Ejecutando las pruebas ⚙️
 
-Descargas el proyecto o lo clonas, y abres index.html
+_Explica como ejecutar las pruebas automatizadas para este sistema_
 
-</a>
+### Analice las pruebas end-to-end 🔩
 
-<a name="Construido">
-  
-<h2> Construido con 🛠️ </h2>
+_Explica que verifican estas pruebas y por qué_
 
-* [VisualStudio](https://visualstudio.microsoft.com/es/) - El IDE que he usado para crear este proyecto
-* [SourceTree](https://www.sourcetreeapp.com/) - Un cliente Git gratuito para Windows
+```
+Da un ejemplo
+```
 
-</a>
+### Y las pruebas de estilo de codificación ⌨️
 
-<a name="Autor">
-  
-<h2> Autor ✒️ </h2>
-  
-* **Diego García Losada** - [digl7](https://github.com/digl7/)
+_Explica que verifican estas pruebas y por qué_
 
-</a>
+```
+Da un ejemplo
+```
 
-<a name="Copyright">
-  
-  <h2> Copyright y licencia </h2>
-  Copyright 2020-2021 del código y de la documentación de los autores. 
-  
-</a>
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+## Contribuyendo 🖇️
+
+Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.
+
+
 
 ---
-⌨️ con ☕ por [digl7](https://github.com/digl7/) 😊
+⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
